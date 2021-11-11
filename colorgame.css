@@ -23,7 +23,7 @@ h1{
 	color:white;
 	text-align: center;
 	line-height: 1.1;
-	background: steelblue;
+	background: black;
 	margin:0;
 	font-weight:normal;
 	text-transform: uppercase;
@@ -45,7 +45,7 @@ h1{
 }
 
 .selected{
-	background: blue;
+	background: grey;
 }
 
 button{
@@ -63,5 +63,5 @@ button{
 
 button:hover{
 	color:white;
-	background: steelblue;
+	background: black;
 }
